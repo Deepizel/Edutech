@@ -1,0 +1,2 @@
+# Edutech
+School Management System
